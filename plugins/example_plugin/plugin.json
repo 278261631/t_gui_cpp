@@ -1,0 +1,15 @@
+{
+    "name": "Example Plugin",
+    "version": "1.0.0",
+    "description": "An example plugin demonstrating the T-GUI plugin system",
+    "author": "T-GUI Framework",
+    "license": "MIT",
+    "dependencies": [],
+    "category": "Example",
+    "interface": "UIPluginInterface",
+    "metadata": {
+        "icon": ":/icons/example.png",
+        "website": "https://t-gui.org",
+        "documentation": "https://t-gui.org/docs/plugins/example"
+    }
+}
